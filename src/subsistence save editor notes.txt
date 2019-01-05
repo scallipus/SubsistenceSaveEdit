@@ -1,0 +1,250 @@
+subsistence editor codes
+
+data is stored as "index", ~:item code, c:item code + item count
+
+example 5 sinew would be "~":131, "c":136
+
+Max Stack Sizes
+5
+Steak
+Chicken wing
+Rabbit leg
+Liver
+Whole Chook
+
+
+10
+high level oven cooked foods
+
+20
+grenade
+
+30 
+Grenade Arrows
+
+
+40 
+Tomatoes
+
+
+50
+arrows
+shotgun bullets
+metal ingots
+rifle bullets
+alloy sheet
+antlers
+
+
+
+
+100
+cordage
+9mm bullets
+glass panels
+adhesive
+fibres
+
+
+200
+iron fragments
+shell casings
+scrap metal
+planks
+
+
+250
+gunpowder
+
+
+300
+nails
+
+
+
+Item Codes  "~":
+
+0 = 9mm bullet
+
+2 = bullet casings
+3 = rifle bullet
+4 = shotgun shell
+5 = animal feces
+
+7 = ash
+
+9 = bandage
+10 = blueberries
+11 = blueberry water bottle
+12 = biofuel
+13 = animal housing
+
+18 = fridge
+
+21 = mass storage
+22 = plant box
+23 = generator
+24 = energy storage
+28 = mass recycler
+
+
+53 = live chicken
+
+55 = cloth
+56 = leather boots
+57 = heavy duty pants
+
+59 = medium pants
+
+61 = heavy duty shirt
+62 = medium shirt
+63 = copper fragments
+64 = cordage
+65 = cotton
+66 = egg
+67 = electrical board
+
+69 = Feathers
+
+70 = fibre
+71 = fuel brick
+72 = glowstick
+73 = gunpowder
+
+75 = health kit
+
+76 = iron fragments
+77 = liver
+78 = lockpick
+79 = log
+
+81 = match
+82 = medicine leaf
+83 = nails
+84 = copper ore
+85 = iron ore
+86 = padded cloth
+
+88 = protien bar
+
+
+
+93 = tomato seed
+94 = scrap metal
+
+96 = splint
+97 = steak
+
+99 = tomato
+
+
+102 = planks
+
+108 = mining drill
+109 = grenade - has options "MagAmmoCount":1,"Upgrades":"0,0,0"
+110 = potassium ore
+111 = refined potassium 
+112 = zinc ore
+113 = zinc fragments
+114 = solar panel
+115 = fire starting kit
+
+117 = arrow
+118 = alloy sheet
+119 = combat helmet
+120 = combat vest
+121 = flood light
+123 = flood light switch
+125 = 44 cal bullet
+
+127 = Canteen
+128 = antidode
+129 = premium arrow
+
+
+130 = Premium Feathers
+131 = sinew
+132 = rope
+133 = metal ingot
+134 = grenade arrow
+135 = bcu cracker
+136 = cog
+137 = medicinal herb seed
+
+
+141 = tree grub
+143 = fish fillet
+
+145 = fish oil
+146 = medical tonic
+
+153 = glass cieling full
+159 = glass panel
+
+
+166 = adhesive
+167 = antlers
+168 =  claymore
+
+170 = fry pan
+171 = boil pan
+172 = bake pan
+173 = potato
+174 = carrot
+175 = potato seed
+176 = carrot seed
+177 = onion seed
+178 = onion
+
+190 = wind turbine
+195 = door buster
+
+
+
+
+
+codes to still do
+
+Steak
+Chicken wing
+Rabbit leg
+Liver
+Whole Chook
+
+cotton seed
+fat
+all the cooked foods
+
+
+
+
+
+
+
+8 = axe Options "Health":100.0000,"HealthMax":100.0000,"MagAmmoCount":1,"Upgrades":"0,0,0"
+87 = pickaxe options "Health":100.0000,"HealthMax":100.0000,"MagAmmoCount":1,"Upgrades":"0,0,0"
+116 = bow options "MagAmmoCount":1,"Upgrades":"0,0,0"
+80 = pistol options "bWasFree":true,"MagAmmoCount":1,"Upgrades":"0,0,0"
+95 = shotgun options "MagAmmoCount":1,"Upgrades":"0,0,0"
+92 = rifle options "MagAmmoCount":1,"Upgrades":"1,0,0"
+
+hammer
+
+
+
+
+oven
+log burner
+mass generator
+pistol
+shotgun
+rifle
+bow
+axe
+pickaxe
+
+base light
+
+plain bottle water
+
+
